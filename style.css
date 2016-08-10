@@ -1,0 +1,63 @@
+body, h1 {
+  font-family: "Cousine", monospace;
+  background-color: #424C55;
+  color: white;
+}
+
+body, html { 
+    overflow-x: hidden; 
+    overflow-y: auto;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  position: fixed;
+  overflow-y:scroll;
+}
+
+
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+  margin-bottom: 5px;
+  margin-top:0;
+  font-size: .8em;
+}
+
+img {
+  top: 20px;
+  left: 70%;
+}
+
+
+#instrc {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 20px;
+}
+
+#red {
+  color: #DA4167;
+}
+
+#blue {
+  color: #15397F;
+}
+
+#white {
+  color: white;
+}
+
+#yellow {
+  color: #F2C459;
+}
+
+#black {
+  color: black;
+}
