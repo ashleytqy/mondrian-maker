@@ -1,2 +1,2 @@
-# mondrian0maker
+# mondrian-maker
 Make your own Mondrian!
